@@ -1,2 +1,2 @@
-# contact-keeper
-React app for managing your contacts
+# Contact Keeper
+Application for managing your contacts.
